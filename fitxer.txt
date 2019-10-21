@@ -1,1 +1,2 @@
 fitxer_torres_sebastian que copiarem a github
+afegim una linea de text desde el repositori local
