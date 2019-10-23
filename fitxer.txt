@@ -1,2 +1,3 @@
 fitxer_torres_sebastian que copiarem a github
 afegim una linea de text desde el repositori local
+PANDA PANDA PANDEMONIOS Andrea Moreno Sánchez
